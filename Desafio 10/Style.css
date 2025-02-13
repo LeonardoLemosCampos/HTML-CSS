@@ -22,7 +22,7 @@ header {
 }
 
 main {
-    background-color: white;
+    background: white;
     max-width: 1000px;
     margin: auto;
     padding: 15px;
