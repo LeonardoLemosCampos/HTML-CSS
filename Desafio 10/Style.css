@@ -112,6 +112,7 @@ header>p{
     text-align: center;
     display: block;
     margin: auto;
+    padding-bottom: 10px;
     max-width: 500px;    
 }
 
@@ -192,7 +193,7 @@ aside li {
 aside li::before {
     content: '✔️';
     position: relative;
-    right: 10px;
+    right: 0px;
     
 }
 
@@ -208,7 +209,7 @@ aside > p {
 .lista ul {
     display: block;
     flex: 1;
-    padding: 0 15px;
+    padding: 0 0px;
     columns: 2;
 }
 /* ------------------ASIDE------------------ */
