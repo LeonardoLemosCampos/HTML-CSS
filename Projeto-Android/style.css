@@ -213,6 +213,7 @@ aside > p {
     columns: 2;
 }
 /* ------------------ASIDE------------------ */
+
 /* ------------------FOOTER----------------- */
 footer a {
     font-weight: bolder;
@@ -225,5 +226,4 @@ footer a:hover {
     color: white;
     text-decoration: underline;
 }
-
 /* ------------------FOOTER----------------- */
