@@ -37,6 +37,7 @@ header p{
 
 h1 {
     font-size: 10dvw;
+    font-variant: small-caps;
     margin: auto;
     text-align: center;
     font-family: Passion One, Verdana, Tahoma, sans-serif;
