@@ -57,6 +57,7 @@ h1 {
     background: black url(imagens/background001.jpg) no-repeat right center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 1px 5px 20px 1px rgb(0, 0, 0) inset;
 }
 
 .parallax1 p {
@@ -73,6 +74,7 @@ h1 {
     background: black url(imagens/background002.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: 1px 5px 20px 1px rgb(0, 0, 0) inset;
 }
 
 .parallax2 p {
